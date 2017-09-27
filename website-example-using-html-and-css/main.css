@@ -1,0 +1,102 @@
+.nav li{
+	display:inline;
+}
+
+h1{
+	margin:10px 0 15px 0;
+	color:#ffffff;
+	text-align:center;
+}
+
+h2{
+	border-bottom:6px solid black;
+	padding:6px 3px 0 0;
+	margin:10px 0 20px 0;
+	font-size:24px;
+	color:#7facaa;
+	font-weight:bold;
+	text-align:center;
+}
+
+body{
+	padding:0 0 0 0;
+	background-color:#5f5f5f;
+	background-image:url(images/stressed_linen.png);
+	font-family:Helvetica, Arial,"Times New Roman", sans-serif;
+}
+
+h3{
+	padding-bottom:3px;
+	border-bottom:1px solid #cccccc;
+	margin:15px 0 15px 0;
+	color:#7facaa;
+}
+
+.nav{
+	padding-left:0;
+	text-align:center;
+}
+
+.nav a{
+	color:#0000af;
+	text-decoration:none;
+	padding:5px 5px 5px 5px;
+}
+
+.nav a:hover{
+	color:white;
+	text-decoration:none;
+	background-color:#0000af;
+}
+
+.header{
+	width:800px;
+	padding:20px 20px 5px 20px;
+	background-color:#b56663;
+	margin: 0 auto 0 auto;
+}
+
+.header a{
+	color:aqua;
+	
+}
+
+.main-content{
+			width:800px;
+			padding:20px 20px 20px 20px;
+			border:1px solid #dddddd;
+			margin:5px auto 0 auto;
+			background-image:url(images/main.png);
+}
+
+.main-content p{
+			line-height:16px;
+}
+
+.ingredients li a{
+			text-decoration:none;
+		}
+
+.photos{
+		list-style-type:none;
+		padding:0;
+}
+		
+.photos li{
+			display:inline;
+			padding-left:11px;
+}
+
+.footer p{
+			color: #aaaaaa;
+			text-align: center;
+			font-weight:bold;
+			font-size:12px;
+			font-style:italic;
+			text-transform:uppercase;
+			background-color:#b56663;
+			width:800px;
+			margin: 5px auto 0 auto;
+			padding:20px 20px 20px 20px;
+}
+
