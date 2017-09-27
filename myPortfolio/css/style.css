@@ -1,0 +1,50 @@
+.body{
+	background-image:  url("../images/background.png");
+	
+}
+
+
+.logo{
+	padding-top:10px;
+}
+
+hr{
+	border-top:2px solid #000;
+}
+
+.footer{
+	display:block;
+	background-color:#000;
+	margin:10px 0 10px 0;
+	padding:10px;
+	border:1px solid #fff;
+	-webkit-border-radius:0 0 10px 10px;
+	-moz-border-radius:0 0 10px 10px;
+	border-radius:0 0 10px 10px;
+}
+
+.copyright{
+	color:#fff;
+	font-weight:5px;
+}
+
+*{
+	font-family: 'Lato', sans-serif;
+}
+
+.featured{
+	-webkit-border-radius:10px;
+	-moz-border-radius:10px;
+	border-radius:10px;
+}
+
+.effect{
+	text-decoration:none;
+	-webkit-transition: font-size 2s ease-in;
+	-moz-transition: font-size 2s ease-in;
+	transition: font-size 2s ease-in;
+}
+
+.effect:hover{
+	font-size:15px;
+}
